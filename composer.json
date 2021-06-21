@@ -40,7 +40,8 @@
         "uvdesk/extension-framework": "^1.0",
         "uvdesk/automation-bundle": "^1.0",
         "uvdesk/support-center-bundle": "^1.0",
-        "uvdesk/mailbox-component": "^1.0"
+        "uvdesk/mailbox-component": "^1.0",
+        "ext-mailparse": "*"
     },
     "require-dev": {
         "symfony/debug-pack": "*",
